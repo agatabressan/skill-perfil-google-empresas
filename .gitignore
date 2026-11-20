@@ -221,3 +221,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados de clientes (nunca versionar)
+clientes/
+dossies/
+fotos-clientes/
+entregas/
+credenciais*
+*.env
+.env*
+saida/
+exports/
